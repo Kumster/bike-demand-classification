@@ -42,11 +42,6 @@ We transform this into a binary classification task and compare multiple machine
 
 ✅ **SVC was selected** as the final model based on out-of-sample AUC.
 
-## 📈 Visualization
-
-![Tree](images/tree_visual.png)
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## 📚 Concepts Demonstrated
 
 - Supervised learning (classification)
